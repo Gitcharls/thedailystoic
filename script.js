@@ -2,7 +2,7 @@ const qoutes = [
   'The greatest remedy for anger is delay.',
   "It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.",
   'Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present."',
-  "Like o_ur stomachs, our minds are hurt more often by overeating than by hunger.”",
+  "Like our stomachs, our minds are hurt more often by overeating than by hunger.”",
   "Remember how long you've been putting this off... There is a limit to the time assigned you, and if you don't use it to free yourself it will be gone and will never return.",
   'If you are ever tempted to look for outside approval, realize that you have compromised your integrity. If you need a witness, be your own.',
   'If you are careless and lazy now and keep putting things off and always deferring the day after which you will attend to yourself, you will not notice that you are making no progress but you will live and die as someone quite ordinary.',
